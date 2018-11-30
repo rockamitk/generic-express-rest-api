@@ -1,0 +1,10 @@
+node_modules/
+ui_old/
+*.log
+.DS_Store
+bower_components/
+public/
+package-lock.json
+
+# IDE #
+.vscode/
